@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+         "name":"ram",
+         "price":300,
+         "email":"ram@gmail.com"
+
+    },
+    
+    {
+        "id":1,
+         "name":"ram",
+         "price":300,
+         "email":"ram@gmail.com"
+
+    },
+    
+    {
+        "id":1,
+         "name":"ram",
+         "price":300,
+         "email":"ram@gmail.com"
+
+    }
+]

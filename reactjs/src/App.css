@@ -1,0 +1,36 @@
+.curd{
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+table td {
+  width: 200px;
+  height: 30px;
+  background-color:yellowgreen;
+  text-align: center;
+  color: white;
+}
+table th {
+  width: 200px;
+  height: 30px;
+  background-color:orange;
+  text-align: center;
+  color: white;
+}
+.edit{
+  background-color: green;
+  color: white;
+}
+.delete{
+  background-color: red;
+  color: white;
+}
+.addform{
+  margin-bottom: 30px;
+}
+.addform button{
+  width: 140px;
+  color: white;
+  background-color: gray;
+}
